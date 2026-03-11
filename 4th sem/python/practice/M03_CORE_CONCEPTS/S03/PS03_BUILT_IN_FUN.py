@@ -25,4 +25,4 @@ print(a[-2])"""
 print(sum(a))"""
 # 5) to find the length of a list
 """a = [1,2,3,4,5]             
-print(len(a))"""
+print(len(a))""" 
